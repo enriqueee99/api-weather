@@ -1,4 +1,4 @@
-## Interacción
+# Interacción
 
 1. app.js captura el nombre de la ciudad
 2. useWeather activa el estado cargando y llama al servicio
