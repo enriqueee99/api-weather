@@ -13,4 +13,3 @@ obteniendo datos de la ciudad de Guayaquil
 
 mensaje de error de una ciudad mal escrita
 <img width="1366" height="698" alt="image" src="https://github.com/user-attachments/assets/c48e5791-e52c-4ecb-bad3-a3872226217a" />
-
